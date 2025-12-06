@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace opam_lab3
+namespace opam_lab4
 {
     class Program
     {
